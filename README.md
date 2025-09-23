@@ -5,7 +5,7 @@ Built to allow musicians to transcribe musical lines faster by automating song c
 
 ---
 
-This web app is deployed to clips.hasanali.dev, but unfortunately cannot be used 
+This web app is deployed to clips.hasanali.dev, but unfortunately cannot be used publicly due to restrictions with Spotify's API.
 
 
 ## 🛠️ Tech Stack
